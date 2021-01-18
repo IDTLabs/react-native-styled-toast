@@ -10,6 +10,7 @@ type IconFamilies =
   | 'EvilIcons'
   | 'Feather'
   | 'FontAwesome'
+  | 'FontAwesome5'
   | 'Foundation'
   | 'Ionicons'
   | 'MaterialCommunityIcons'
